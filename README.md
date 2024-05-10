@@ -1,4 +1,4 @@
-# Sistema de Gestão em React
+# Sistema de Gestão em React JS
 
 Bem-vindo ao Sistema de Gestão em React! Este projeto oferece uma solução abrangente para a gestão de locações, incluindo funcionalidades como cadastro de funcionários, criação de fichas de E.P.I, upload de PDFs, fichas de pagamento, benefícios, sistema de locação com orçamento, contrato, guia de entrega, e um sistema financeiro de notas.
 
